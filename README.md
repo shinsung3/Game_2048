@@ -50,6 +50,3 @@
 - ![image](https://user-images.githubusercontent.com/46014771/117570075-d155a000-b103-11eb-8283-ff52acaeaf6a.png)
 - 위(w : up)
 - ![image](https://user-images.githubusercontent.com/46014771/117570081-da467180-b103-11eb-8378-5cf4fe9334a6.png)
-=======
-- ![image](https://user-images.githubusercontent.com/46014771/117570081-da467180-b103-11eb-8378-5cf4fe9334a6.png)
-
