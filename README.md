@@ -24,7 +24,7 @@
   - 각종 Game내에 필요한 기능 모음
 
 <hr />
-# 참고화면
+# 참고
 
 ### 기본 시작 화면
 - ![image](https://user-images.githubusercontent.com/46014771/117570061-b4b96800-b103-11eb-932e-1ad777426f9d.png)
