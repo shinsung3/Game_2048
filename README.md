@@ -19,10 +19,7 @@
 
 
 
-
-
 ## Java 설명
-
 - MoveMap.java
   - 좌표 Object
   - Getter / Setter
@@ -35,6 +32,7 @@
 - Game.java
   - 각종 Game내에 필요한 기능 모음
 
+<<<<<<< HEAD
 
 
 ## 이미지 참고
@@ -52,3 +50,6 @@
 - ![image](https://user-images.githubusercontent.com/46014771/117570075-d155a000-b103-11eb-8283-ff52acaeaf6a.png)
 - 위(w : up)
 - ![image](https://user-images.githubusercontent.com/46014771/117570081-da467180-b103-11eb-8378-5cf4fe9334a6.png)
+=======
+- ![image](https://user-images.githubusercontent.com/46014771/117570081-da467180-b103-11eb-8378-5cf4fe9334a6.png)
+
