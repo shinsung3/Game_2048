@@ -15,7 +15,7 @@
 - ![image-20210509200959583](C:\Users\tlstj\AppData\Roaming\Typora\typora-user-images\image-20210509200959583.png)
 
 - 오른쪽(a : right)
-- ![image-20210509201141391](C:\Users\tlstj\AppData\Roaming\Typora\typora-user-images\image-20210509201141391.png)
+- ![image](https://user-images.githubusercontent.com/46014771/117570041-92274f00-b103-11eb-9353-05a55b42adb4.png)
 - 왼쪽(d : left)
 - ![image-20210509201124346](C:\Users\tlstj\AppData\Roaming\Typora\typora-user-images\image-20210509201124346.png)
 - 위(w : up)
