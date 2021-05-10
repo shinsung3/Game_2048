@@ -32,7 +32,21 @@
 - Game.java
   - 각종 Game내에 필요한 기능 모음
 
-<<<<<<< HEAD
+
+
+## 세부 Java 설명
+
+### MoveMap.java
+
+1. **`row`** - row (행)
+2. **`col`** - column (열)
+3. **`value`** - map(row, col)
+4. **`checked`** - 한번 변했 값이 한판에 두번 변할 수는없으니 체크해야 함. (Boolean)
+5. **`public MoveMap(int row, int col)`** - 좌표만 담아 줄 생성자 (Constructor)
+6. **`public MoveMap(int row, int col, int value, boolean checked)`** - 좌표, value, check 값 추가
+7. 그 외 getter/setter.
+
+
 
 
 ## 이미지 참고
