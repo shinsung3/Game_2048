@@ -36,7 +36,7 @@
 
 ## 세부 Java 설명
 
-### MoveMap.java
+### 1. MoveMap.java
 
 1. **`row`** - row (행)
 2. **`col`** - column (열)
@@ -45,6 +45,56 @@
 5. **`public MoveMap(int row, int col)`** - 좌표만 담아 줄 생성자 (Constructor)
 6. **`public MoveMap(int row, int col, int value, boolean checked)`** - 좌표, value, check 값 추가
 7. 그 외 getter/setter
+
+
+
+### 2. PennDraw.java
+
+- UPenn(펜실베니아 주립대학교) 오픈 소스
+
+- StdDraw 기반
+
+- 아래는 내가 사용 할 method들
+
+  1.  **` public static void setPenColor(int red, int green, int blue)`**
+
+     - RGB 색을 지정하여 화면의 글자나 배경의 색을 지정할 수 있다.
+
+  2. **`public static void filledSquare(double x, double y, double r)`**
+
+     - 각 네모 칸마다 색을 변경하고 만들어 줄것.
+
+  3. **`public static void line(double x0, double y0, double x1, double y1)`**
+
+     - 네모 칸 말고 16개의 칸을 나눠주기 위해서 먼저 선을 그려줌
+
+  4. **`public static void setPenRadius(double r)`**
+
+     - 라인을 그린 뒤 그 라인의 펜의 두께를 지정해준다.
+
+  5. **`public static void text(double x, double y, String s)`**
+
+     - 텍스트 위에 좌표에 맞게 문자(우리는 숫자들)를 나타내기 위한 용도
+
+  6. **`public static void setFontSize(double pointSize)`**
+
+     - 보이는 글자가 너무 작으면 안되니까 FontSize도 지정해준다.
+
+  7. **`public static boolean hasNextKeyTyped()`**
+
+     - 키를 눌렀는지 (블럭을 움직였는지 확인) - Return Type : boolean
+
+  8.  **`public static char nextKeyTyped()`**
+
+     - 어떤 키를 눌렀는지 확인 - Return Type : char
+
+  9. **`public static void picture(double x, double y, String s)`**
+
+     - 마지막으로 게임의 승패를 가를 수 있는 정보를 이미지로 뿌려 줄 예정.
+
+     
+
+
 
 
 

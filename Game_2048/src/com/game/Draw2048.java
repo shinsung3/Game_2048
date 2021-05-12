@@ -64,7 +64,7 @@ public class Draw2048 {
 		PennDraw.filledSquare(0.875, 0.125, WIDTH);
 
 		// Drawing vertical lines
-		PennDraw.setPenRadius(0.005);
+		PennDraw.setPenRadius(0.02);
 		PennDraw.setPenColor(150, 146, 132);
 		PennDraw.line(0.25, 1, 0.25, 0);
 		PennDraw.line(0.5, 1, 0.5, 0);
